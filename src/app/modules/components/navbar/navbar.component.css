@@ -1,0 +1,12 @@
+.content-wrapper {
+    padding-bottom: 64px; /* Adjust to the height of your mobile navbar */
+}
+
+/* Mobile Navbar */
+.fixed {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 10; /* Ensures it stays above other elements */
+    background-color: white;
+}
