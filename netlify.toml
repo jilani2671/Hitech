@@ -1,6 +1,6 @@
 [build]
    command = "ng build --configuration=production"
-   publish = "/opt/build/repo/dist/hi-tech"
+   publish = "dist/hi-tech"
 
 [[redirects]]
   from = "/*"
