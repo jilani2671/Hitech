@@ -1,5 +1,5 @@
 [build]
-   command = "ng build --configration=production"
+   command = "ng build --configuration=production"
    publish = "dist/hitech-app/browser/browser"
 
 
